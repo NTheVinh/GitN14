@@ -8,5 +8,7 @@ namespace _15.Models
 {
     internal class Lecture
     {
+        public int MSSV { get; set; }
+        public int ID { get; set; }
     }
 }
